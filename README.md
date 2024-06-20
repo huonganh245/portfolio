@@ -1,4 +1,4 @@
-## 🎀 About me
+## 🍃 About me
 ![Cover](https://github.com/huonganh245/portfolio/assets/26918637/66e56a19-0220-4c04-b6fb-7474716ad65e)
 
 Hi I'm Anh, an entry-level Data Analyst with strong skills in:
